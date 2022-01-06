@@ -6,7 +6,7 @@ font-family: 'Poppins', sans-serif;
 margin: 0;
 padding: 0;
 }
-.header-section{
+.section-div{
     display: flex;
     width: 90%;
     margin: 0 auto;
@@ -22,9 +22,10 @@ padding: 0;
     padding-top: 70px;
     margin-right: 100px;
 }
-.stay-tittle{
+#title-border{
     border-left: 3px solid black;
     line-height: 100%;
+    border-radius: 2px;
 }
 .stay-tittle div{
     padding-left: 5px;
@@ -32,11 +33,11 @@ padding: 0;
 #brown-mission{
     color: brown;
 }
-.explore-link{
+.details-link{
     margin-top: 30px;
     margin-bottom: 25px;
 }
-.explore-button{
+.details-button{
     text-decoration: none;
     padding: 10px 30px;
     border-radius: 5px;
@@ -99,3 +100,18 @@ padding: 0;
 .goal-illu img{
     width: 40%;
 }
+
+/* Emd My Mission */
+
+.development-img{
+    width: 100%;
+    margin-top: 50px;
+}
+.development-bgi{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: left;
+}
+
+/* End Development Section */
