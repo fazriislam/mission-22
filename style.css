@@ -6,6 +6,9 @@ font-family: 'Poppins', sans-serif;
 margin: 0;
 padding: 0;
 }
+
+/* Start Head */
+
 .section-div{
     display: flex;
     width: 90%;
@@ -49,6 +52,8 @@ padding: 0;
 }
 
 /* End Head */
+/* Start My Mission */
+
 .my-mission-div{
 }
 #my-mission{
@@ -74,7 +79,7 @@ padding: 0;
 .mission-illu img{
     width: 40%;
 }
-/* Mission Box */
+/* End Mission Box */
 .vission-box{
     width: 300px;
     height: 300px;
@@ -87,7 +92,7 @@ padding: 0;
 .vission-illu img{
     width: 40%;
 }
-/* vission Box */
+/* End vission Box */
 .goal-box{
     width: 300px;
     height: 300px;
@@ -100,8 +105,10 @@ padding: 0;
 .goal-illu img{
     width: 40%;
 }
+/* End Goal Box*/
 
-/* Emd My Mission */
+/* End My Mission */
+/* Start Development Section */
 
 .development-img{
     width: 100%;
@@ -115,6 +122,7 @@ padding: 0;
 }
 
 /* End Development Section */
+/* Start Community Section */
 
 .community-bgi{
     background-image: url(images/shapes/shape-1.png);
@@ -129,6 +137,37 @@ padding: 0;
 }
 
 /* End Community Section */
+/* Start Contact Section */
+
+.contact-section{
+    background-color: rgba(13, 155, 108, 0.555);
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    color: whitesmoke;
+}
+#contact-us{
+    text-align: center;
+}
+.Contact-div{
+    display: flex;
+}
+.address-side{
+    padding-top: 60px;
+    padding-left: 60px;
+}
+.guest-info{
+    margin-left: 150px;
+    margin-top: 0;
+}
+#send-button{
+    background-color: rgba(214, 21, 140, 0.404);
+    color: white;
+}
+
+/* End Contact Section */
+/* Start Footer */
 
 .last-section{
     background-color: black;
@@ -150,3 +189,5 @@ font-family: 'Oswald', sans-serif;
 font-family: 'Poppins', sans-serif;
 font-family: 'The Nautigal', cursive;
 }
+
+/* End Footer */
