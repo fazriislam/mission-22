@@ -115,3 +115,17 @@ padding: 0;
 }
 
 /* End Development Section */
+
+.community-bgi{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 180px;
+    background-position: 60% 90%;
+}
+.community-img{
+    width: 100%;
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+
+/* End Community Section */
