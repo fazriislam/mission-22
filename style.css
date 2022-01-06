@@ -46,3 +46,56 @@ padding: 0;
 .image-side{
     margin-left: 100px;
 }
+
+/* End Head */
+.my-mission-div{
+}
+#my-mission{
+    text-align: center;
+}
+#colorful-22{
+    color: tomato;
+}
+.mission-vission{
+    display: flex;
+    margin: 50px;
+}
+.mission-box{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(176, 224, 230);
+    border-radius: 15px;
+    margin-left: 225px;
+    margin-right: 20px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.mission-illu img{
+    width: 40%;
+}
+/* Mission Box */
+.vission-box{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(233,150,122);
+    border-radius: 15px;
+    margin-right: 20px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.vission-illu img{
+    width: 40%;
+}
+/* vission Box */
+.goal-box{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(238,232,170);
+    border-radius: 15px;
+    margin-right: ;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.goal-illu img{
+    width: 40%;
+}
