@@ -129,3 +129,24 @@ padding: 0;
 }
 
 /* End Community Section */
+
+.last-section{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    margin: 60px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+#red-22{
+    color: red;
+}
+.mission-font{
+    font-family: 'Anton', sans-serif;
+font-family: 'Be Vietnam Pro', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'The Nautigal', cursive;
+}
