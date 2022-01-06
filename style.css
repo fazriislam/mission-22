@@ -23,7 +23,7 @@ padding: 0;
     margin-right: 100px;
 }
 #title-border{
-    border-left: 3px solid black;
+    border-left: 3px solid rgb(233, 132, 17);
     line-height: 100%;
     border-radius: 2px;
 }
@@ -41,7 +41,7 @@ padding: 0;
     text-decoration: none;
     padding: 10px 30px;
     border-radius: 5px;
-    background-color: green;
+    background-color: rgba(221, 23, 23, 0.849);
     color: whitesmoke;
 }
 .image-side{
